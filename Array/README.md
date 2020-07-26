@@ -1,4 +1,4 @@
-# Arrays problems solution in swift
+# Arrays
 
 1. [Print 2-D array (Matrix) in Spiral form](https://github.com/VinayakDeshpande11/Algorithms/blob/master/Array/ArrayTraversalSpiral.swift)
 2. [Print 2-D array (Matrix) in Hair Pin form](https://github.com/VinayakDeshpande11/Algorithms/blob/master/Array/ArrayTraversalHairpin.swift)
