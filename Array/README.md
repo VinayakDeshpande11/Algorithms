@@ -1,8 +1,8 @@
 # Arrays
 
-    > Array is a data structure consisting of a collection of elements, each identified by array index. 
-    >
-    > An array is stored such tha the position of each element can  be computed from its index cell by a mathematical formula.
+ > Array is a data structure consisting of a collection of elements, each identified by array index. 
+ >
+ > An array is stored such tha the position of each element can  be computed from its index cell by a mathematical formula.
 
 ## Properties of Array:
     1. Array can store data of specified data type.
