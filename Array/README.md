@@ -18,3 +18,4 @@ NB: This array is different from the Swift's Standard Library. The array size ca
 2. [Print 2-D array (Matrix) in Hair Pin form](https://github.com/VinayakDeshpande11/Algorithms/blob/master/Array/ArrayTraversalHairpin.swift)
 3. [Print 2-D array (Matrix) in Vertical Hair Pin form](https://github.com/VinayakDeshpande11/Algorithms/blob/master/Array/ArrayTraversalVerticalHairPin.swift)
 4. [Print 2-D array (Matrix) in Vertical form](https://github.com/VinayakDeshpande11/Algorithms/blob/master/Array/ArrayVerticalTraversal.swift)
+5. [Find a continuous subarray which adds to a given number - SET 1]()
